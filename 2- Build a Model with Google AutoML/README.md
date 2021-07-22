@@ -72,7 +72,6 @@ After we have trained each model, we will answer questions about it in the ***Au
 
 - *Build_a_model_project_files* directory is the root directory. 
 - *images* folder is for example images, 
-- *data* folder is for data,
 - *automl-modeling-report.docx* is the report document filled by me.
 
 ## Notes <a name="notes"/>
