@@ -83,3 +83,4 @@ After we have trained each model, we will answer questions about it in the ***Au
 - [Create a Medical Image Annotation Job](https://github.com/ErkanHatipoglu/AI-Product-Manager-Nanodegree-Program/tree/main/1-%20Create%20a%20Medical%20Image%20Annotation%20Job)
 - [Kaggle](https://www.kaggle.com)
 - [Chest x-ray dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+- [What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/)
