@@ -73,6 +73,7 @@ After we have trained each model, we will answer questions about it in the ***Au
 - *Build_a_model_project_files* directory is the root directory. 
 - *images* folder is for example images, 
 - *automl-modeling-report.docx* is the report document filled by me.
+- *automl-modeling-report.pdf* is the pdf version of the final modeling report document.
 
 ## Notes <a name="notes"/>
 - Most of the parts of this README are directly copied from the Udacity project instructions.
