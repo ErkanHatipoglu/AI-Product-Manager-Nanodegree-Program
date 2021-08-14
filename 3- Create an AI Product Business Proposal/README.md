@@ -3,10 +3,29 @@
 ## Table of Contents 
 
 - [Overview](#overview)
+- [The Business Goal](#goal)
+- [Success Metrics](#metrics)
+- [Data](#data)
+- [Model](#model)
+- [Minimum Viable Product](#mvp)
+- [Post-MVP-Deployment](#deploy)
 - [References](#references)
 
 ## Overview  <a name="overview"/>
 
+In this final project of the NanoDegree, we will develop a business proposal for an AI product of our own choosing.
+
+## The Business Goal    <a name="goal"/>
+
+## Success Metrics  <a name="metrics"/>
+
+## Data    <a name="data"/>
+
+## Model   <a name="model"/>
+
+## Minimum Viable Product <a name="mvp"/>
+
+## Post-MVP-Deployment <a name="deploy"/>
 
 ## References <a name="references"/>
 
