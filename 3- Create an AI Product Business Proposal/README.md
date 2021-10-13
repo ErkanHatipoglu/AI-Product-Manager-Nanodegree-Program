@@ -15,6 +15,10 @@
 
 In this final project (Capstone) of the NanoDegree, we will develop a business proposal for an AI product of our own choosing.
 
+We have selected a project about COVID-19 pneumonia detection since we have already made some projects about pneumonia detection in the previous assignments and we can use the gained experience in the final project.
+
+In our business proposal we will cover some important aspects of product development which will be described below.
+
 ## The Business Goal    <a name="goal"/>
 
 ## Success Metrics  <a name="metrics"/>
