@@ -13,13 +13,17 @@
 
 ## Overview  <a name="overview"/>
 
-In this final project (Capstone) of the NanoDegree, we will develop a business proposal for an AI product of our own choosing.
+In this final project (Capstone) of the NanoDegree, we will develop a business proposal for an AI product of our choosing.
 
 We have selected a project about COVID-19 pneumonia detection since we have already made some projects about pneumonia detection in the previous assignments and we can use the gained experience in the final project.
 
-In our business proposal we will cover some important aspects of product development which will be described below.
+In our business proposal, we will cover some important aspects of product development which will be described below.
 
 ## The Business Goal    <a name="goal"/>
+
+Our first step in writing the business proposal is describing our product and explaining how it will provide value to the business.
+
+We need to express what the product will do in detail and set out why and how this helps the business. It is crucial that we link the AI/ML task to business goals such as increasing revenue or customer happiness.
 
 ## Success Metrics  <a name="metrics"/>
 
