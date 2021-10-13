@@ -27,6 +27,18 @@ We need to express what the product will do in detail and set out why and how th
 
 ## Success Metrics  <a name="metrics"/>
 
+Along with the business goal we also need to define success metrics to evaluate the product if it is successful or not.
+
+Measurable, predictive, comparable, and benchmarked metrics such as 
+
+- Customer Experience,
+- Revenue gain,
+- Customer engagement,
+- Business process automation,
+- Better and faster decision making,
+
+are crucial for business success.
+
 ## Data    <a name="data"/>
 
 ## Model   <a name="model"/>
