@@ -41,6 +41,15 @@ are crucial for business success.
 
 ## Data    <a name="data"/>
 
+We also need to think about the training data. Some questions to ask ourself may be
+
+- Shall we buy or collect the data?
+- Where and how to collect the data? 
+- Are there any PII (Personally Identifying Information) issues?
+- Is there data sensitivity issues?
+- What is the cost of collecting the data?
+- Is there any bias in the data?
+
 ## Model   <a name="model"/>
 
 ## Minimum Viable Product <a name="mvp"/>
