@@ -9,6 +9,7 @@
 - [Model](#model)
 - [Minimum Viable Product](#mvp)
 - [Post-MVP-Deployment](#deploy)
+- [Project Structure](#structure)
 - [References](#references)
 
 ## Overview  <a name="overview"/>
@@ -65,6 +66,13 @@ Finally, we shall plan what happens after launch.
 - How do we ensure the product continues to perform well?
 - Who will monitor the product?
 - How will they monitor the product, and how often?
+
+## Project Structure <a name="structure"/>
+
+- *Create_an_AI_Product_Project_Files* directory is the root directory. 
+- *images* folder is for example images, 
+- *capstone-project-proposal.docx* is the business proposal document filled by me.
+- *capstone-project-proposal.pdf* is the pdf version of the final business proposal document.
 
 ## References <a name="references"/>
 
