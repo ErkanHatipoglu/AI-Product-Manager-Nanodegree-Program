@@ -27,7 +27,7 @@ We'll be using the same Kaggle [Chest x-ray dataset](https://www.kaggle.com/paul
 
 ## The Four Parts of the Project <a name="parts"/>
 
-We will train four different models using four variants of the [pneumonia dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). Recall that the dataset contains childrens' chest x-ray images, and that they are classified into two classes, "normal" and "pneumonia". The following sections describe the steps we must take to create each model.
+We will train four different models using four variants of the [pneumonia dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). Recall that the dataset contains childrens' chest x-ray images and that they are classified into two classes, "normal" and "pneumonia". The following sections describe the steps we must take to create each model.
 
 ### Create a binary classifier to detect pneumonia using chest x-rays
 
@@ -64,7 +64,7 @@ For the final model, note that the "pneumonia" images actually have two differen
 
 - **Confusion matrix:** What does the 3-class confusion matrix look like?
 - **Precision & recall:** What are the model's precision and recall? How are these measures calculated?
-- **More data:** Can you continue to add data to each class (while keeping the data balanced) and get the model to 85% precision and recall? How many data did you end up using?
+- **More data:** Can you continue to add data to each class (while keeping the data balanced) and get the model to 85% precision and recall? How much data did you end up using?
 
 After we have trained each model, we will answer questions about it in the ***AutoML Modeling Report***.
 
