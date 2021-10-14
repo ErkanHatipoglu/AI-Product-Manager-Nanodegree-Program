@@ -52,6 +52,8 @@ We also need to think about the training data. Some questions to ask ourselves m
 
 ## Model   <a name="model"/>
 
+Thinking about the model is another aspect of the business proposal. While training the model algorithm we may consider using an in-house team or outsource the training. We also need to think about using the cloud or not. While thinking about using the cloud we need to consider data security issues, compute power, cost, etc.
+
 ## Minimum Viable Product <a name="mvp"/>
 
 ## Post-MVP-Deployment <a name="deploy"/>
