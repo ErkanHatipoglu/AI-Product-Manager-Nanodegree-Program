@@ -46,7 +46,7 @@ We also need to think about the training data. Some questions to ask ourselves m
 - Shall we buy or collect the data?
 - Where and how to collect the data? 
 - Are there any PII (Personally-Identifying Information) issues?
-- Is there data sensitivity issues?
+- Are there data sensitivity issues?
 - What is the cost of collecting the data?
 - Is there any bias in the data?
 
@@ -55,6 +55,8 @@ We also need to think about the training data. Some questions to ask ourselves m
 Thinking about the model is another aspect of the business proposal. While training the model algorithm we may consider using an in-house team or outsource the training. We also need to think about using the cloud or not. While thinking about using the cloud we need to consider data security issues, compute power, cost, etc.
 
 ## Minimum Viable Product <a name="mvp"/>
+
+We shall think about our product and decide and describe the user. We need to describe how the product looks like and how the user uses our product (through a WEB page, a mobile app, a program that is installed on a PC, etc.). 
 
 ## Post-MVP-Deployment <a name="deploy"/>
 
