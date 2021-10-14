@@ -60,6 +60,12 @@ We shall think about our product and decide and describe the user. We need to de
 
 ## Post-MVP-Deployment <a name="deploy"/>
 
+Finally, we shall plan what happens after launch. 
+
+- How do we ensure the product continues to perform well?
+- Who will monitor the product?
+- How will they monitor the product, and how often?
+
 ## References <a name="references"/>
 
 - [AI Product Manager Program - Udacity](https://www.udacity.com/course/ai-product-manager-nanodegree--nd088)
