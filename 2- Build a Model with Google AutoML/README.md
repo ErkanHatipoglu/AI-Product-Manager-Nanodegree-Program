@@ -81,6 +81,7 @@ After we have trained each model, we will answer questions about it in the ***Au
 ## References <a name="references"/>
 
 - [AI Product Manager Program - Udacity](https://www.udacity.com/course/ai-product-manager-nanodegree--nd088)
+- [Udacity AI Product Manager Program Review (Part II)](https://medium.com/geekculture/udacity-ai-product-manager-program-review-part-ii-b9fb55d0314e)
 - [Create a Medical Image Annotation Job](https://github.com/ErkanHatipoglu/AI-Product-Manager-Nanodegree-Program/tree/main/1-%20Create%20a%20Medical%20Image%20Annotation%20Job)
 - [Kaggle](https://www.kaggle.com)
 - [Chest x-ray dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
