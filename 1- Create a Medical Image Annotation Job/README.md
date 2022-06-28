@@ -73,6 +73,7 @@ A pneumonia image may include a few things: areas of cloudiness/opacity in sever
 ## References <a name="references"/>
 
 - [AI Product Manager Program - Udacity](https://www.udacity.com/course/ai-product-manager-nanodegree--nd088)
+- [Udacity AI Product Manager Program Review (Part I)](https://medium.com/geekculture/udacity-ai-product-manager-program-review-part-1-a85f24ff082b)
 - [Appen](https://appen.com/)
 - [Kaggle](https://www.kaggle.com)
 - [Chest x-ray dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
